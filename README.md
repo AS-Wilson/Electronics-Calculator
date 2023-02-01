@@ -4,4 +4,4 @@ The intention here is to take the tedium out of tolerance calculations for elect
 
 # Block Diagram of Current Algorithm/Function
 
-![Block Diagram](https://github.com/AS-Wilson/Electronics-Calculator/Images/electronic-calculator-algorithm.png/)
+![Block Diagram](https://github.com/AS-Wilson/Electronics-Calculator/blob/main/Images/electronic-calculator-algorithm.png)
